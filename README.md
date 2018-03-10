@@ -13,6 +13,10 @@ You may download them from:
 * http://www.boost.org/
 * Alternatively, it may be possible to install them using a package manager.
 
+git clone https://github.com/SergeyTit/karbowanec.git karbowanec
+cd karbowanec
+npm update
+
 To build, change to a directory where this file is located, and run `make`. The resulting executables can be found in `build/release/src`.
 
 **Advanced options:**
